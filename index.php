@@ -50,8 +50,8 @@
                   Login
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="moodle.html">Moodle</a></li>
-                  <li><a class="dropdown-item" href="fedena.html">Fedena</a></li>
+                  <li><a class="dropdown-item" href="moodle.php">Moodle</a></li>
+                  <li><a class="dropdown-item" href="fedena.php">Fedena</a></li>
                   
                 </ul>
               </li>
@@ -106,7 +106,7 @@
                   <div class="card-body">
                     <h2 class="card-title">Welcome To Rajagiri</h2>
                     <p class="card-text">Drawing inspiration from the founder, St. Kuriakose Elias Chavara, a great visionary, reformer and religious leader of the 19th century, the Carmelites of Mary Immaculate (CMI), the first indigenous religious congregation for men in India, dedicated themselves to education at all levels</p>
-                    <a href="about.html" class="btn btn-success">Know More</a>
+                    <a href="about.php" class="btn btn-success">Know More</a>
                   </div>
                 </div>
                 <div class="row row-cols-1 row-cols-md-3 g-4">
