@@ -50,8 +50,8 @@
                   Login
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="moodle.html">Moodle</a></li>
-                  <li><a class="dropdown-item" href="fedena.html">Fedena</a></li>
+                  <li><a class="dropdown-item" href="moodle.php">Moodle</a></li>
+                  <li><a class="dropdown-item" href="fedena.php">Fedena</a></li>
                   
                 </ul>
               </li>
