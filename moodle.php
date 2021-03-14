@@ -81,7 +81,7 @@
                     </tr>
                     <tr>
                         <td>Password:</td>
-                        <td><input type="pass" class="form-control"></td>
+                        <td><input type="password" class="form-control"></td>
                     </tr>
                     <tr>
                         <td></td>
