@@ -153,7 +153,7 @@
               <button type="button" class="list-group-item list-group-item-action"><a href="reg.php">UG Admissions 2021</a></button>
               <button type="button" class="list-group-item list-group-item-action"><a href="reg.php">PG Admissions 2021</a></button>
               <button type="button" class="list-group-item list-group-item-action"><a href="reg.php">Exam Registration</a></button>
-              <button type="button" class="list-group-item list-group-item-action">Grade Card Published at <a href="fedena.html">Fedena</a></button>
+              <button type="button" class="list-group-item list-group-item-action">Grade Card Published at <a href="fedena.php">Fedena</a></button>
             </div>
             <br>
             <div class="accordion accordion-flush" id="accordionFlushExample">
